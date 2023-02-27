@@ -1,5 +1,5 @@
-# IDD_HW8
- Progetto finale corso Ingegneria Dei Dati A.A. 2022/2023
+# Progetto finale IDD
+ Progetto finale per il corso **Ingegneria dei Dati** *A.A. 2022/2023*
 
 Obiettivi:
 * Analizzare le sorgenti dati e individuare le principali eterogeneità.
